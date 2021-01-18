@@ -38,7 +38,7 @@ namespace WebHoroscopo.Controllers
             if ((dia >= 23 && mes == 9) || (dia <= 22 && mes == 10))
             { return "Libra: Puede que ahora todo se esté desmoronando, pero irá bien. Esto también pasará."; }
             if ((dia >= 23 && mes == 10) || (dia <= 22 && mes == 11))
-            { return "Escorpion: Si un Escorpio no confía en alguien, puedes estar seguro de que tiene buenas razones. :("; }
+            { return "Escorpion: Si un Escorpio no confía en alguien, puedes estar seguro de que tiene buenas razones."; }
             if ((dia >= 23 && mes == 11) || (dia <= 21 && mes == 12))
             { return "Sagitario: Sin riesgo no hay aventura."; }
             if ((dia >= 22 && mes == 12) || (dia <= 20 && mes == 1))

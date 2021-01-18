@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHoroscopo", "WebHoroscopo\WebHoroscopo.csproj", "{8A06B40D-BBE5-4579-9A4B-600015FB4C39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebHoroscopo", "WebHoroscopo\WebHoroscopo.csproj", "{8A06B40D-BBE5-4579-9A4B-600015FB4C39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestHoroscopo", "NUnitTestHoroscopo\NUnitTestHoroscopo.csproj", "{EC3816CA-D710-4CFB-B3B1-D4139756B6E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8A06B40D-BBE5-4579-9A4B-600015FB4C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A06B40D-BBE5-4579-9A4B-600015FB4C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A06B40D-BBE5-4579-9A4B-600015FB4C39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC3816CA-D710-4CFB-B3B1-D4139756B6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3816CA-D710-4CFB-B3B1-D4139756B6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3816CA-D710-4CFB-B3B1-D4139756B6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3816CA-D710-4CFB-B3B1-D4139756B6E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
